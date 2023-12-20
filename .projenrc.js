@@ -11,6 +11,7 @@ const project = new TaimosTypescriptLibrary({
     'axios',
     'uuid',
     'lambda-log',
+    'cdk-monitoring-constructs',
     'constructs',
   ],
   defaultReleaseBranch: 'main',
