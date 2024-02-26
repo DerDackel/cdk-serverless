@@ -2326,10 +2326,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-monitoring-constructs@^7.2.1:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/cdk-monitoring-constructs/-/cdk-monitoring-constructs-7.2.1.tgz#b1731a189bd7a8b658b3e7e30ee3081cc99810e2"
-  integrity sha512-0zzxQZtGK7F703BtE5By5cIzLSlSKl9RRQbbg99+tHY5zPBJ5uRF95gEmElHSp12MNefXg4Kupu5OXA/Y1LGtg==
+cdk-monitoring-constructs@^7.7.0:
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/cdk-monitoring-constructs/-/cdk-monitoring-constructs-7.7.0.tgz#56a1ecb712ae9053fc6ed9c9417871daaf769a6b"
+  integrity sha512-oooH6Bf3W2YfKc5A7In8+roUMybhcGX0fJ/+plb7llJ+d3O4m+DeIXWeiCPjCbMw5v5/iMGIgaIIR4xygDDxRQ==
 
 chalk@^2.4.2:
   version "2.4.2"
