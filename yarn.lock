@@ -35,6 +35,11 @@
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-cognito-identitypool-alpha/-/aws-cognito-identitypool-alpha-2.120.0-alpha.0.tgz#77088b85e83d6f5e6932376291a717926f34c221"
   integrity sha512-lPLOVeOdyoakCvNUmL66KJtGK+OqxiHp/kAScZJnpvgqK7etLqn+L8fW6Bw9nLmGDq88JHNAkIrT029wFg5eqA==
 
+"@aws-cdk/aws-redshift-alpha@2.120.0-alpha.0":
+  version "2.120.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-redshift-alpha/-/aws-redshift-alpha-2.120.0-alpha.0.tgz#f540c946643767350573295283bfc65015a376d3"
+  integrity sha512-NB4pVzACsOZCbezY1f4GhtIv5mgyVycBzVjOyqX+NemvLUp6u9o8GAelSTpVytYFOKquaqZUxRRmfqYwY7NLCA==
+
 "@aws-crypto/crc32@3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@aws-crypto/crc32/-/crc32-3.0.0.tgz#07300eca214409c33e3ff769cd5697b57fdd38fa"

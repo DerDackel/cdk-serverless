@@ -33,6 +33,7 @@ const project = new TaimosTypescriptLibrary({
     'dynamodb-onetable',
     'aws-cdk-lib@^2.120.0',
     '@aws-cdk/aws-cognito-identitypool-alpha@^2.120.0-alpha.0',
+    '@aws-cdk/aws-redshift-alpha@^2.120.0-alpha.0',
   ],
   keywords: [
     'aws',
